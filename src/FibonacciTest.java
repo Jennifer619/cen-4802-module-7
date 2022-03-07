@@ -6,7 +6,10 @@ class FibonacciTest {
 
 	@Test
 	void test() {
-		fail("Not yet implemented");
+		Fibonacci test = new Fibonacci();
+		int n = 10;
+		int output = test.fib(n);
+		assertEquals(55, output);
 	}
 
 }
