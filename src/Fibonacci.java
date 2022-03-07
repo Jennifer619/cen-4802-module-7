@@ -1,6 +1,7 @@
 /**
  * @author Jennifer Miller
  *
+ *
  */
 public class Fibonacci {
 	// recursive method
